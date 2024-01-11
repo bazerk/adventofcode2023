@@ -6,5 +6,7 @@
     &lt;TestId&gt;NUnit3x::CD2A23A3-6D91-4EF6-BE14-5CC35318EE61::net8.0::AdventOfCodeTests.Tests&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::CD2A23A3-6D91-4EF6-BE14-5CC35318EE61::net8.0::AdventOfCodeTests.day2.Day2Tests.Star1ExampleInputTest&lt;/TestId&gt;
     &lt;TestId&gt;NUnit3x::CD2A23A3-6D91-4EF6-BE14-5CC35318EE61::net8.0::AdventOfCodeTests.day2.Day2Tests.Star2ExampleInputTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::CD2A23A3-6D91-4EF6-BE14-5CC35318EE61::net8.0::AdventOfCodeTests.day3.Day3Tests.Star1ExampleInputTest&lt;/TestId&gt;
+    &lt;TestId&gt;NUnit3x::CD2A23A3-6D91-4EF6-BE14-5CC35318EE61::net8.0::AdventOfCodeTests.day3.Day3Tests.Star2ExampleInputTest&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

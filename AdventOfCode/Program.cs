@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using AdventOfCode.day7;
+using AdventOfCode.day8;
 
-System.Console.WriteLine($@"{Day7.SolveStar2()}");
+System.Console.WriteLine($@"{Day8.SolveStar2()}");
